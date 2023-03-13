@@ -11,5 +11,5 @@ Thank you for attention!
 ## Install
 
 ```shell script
-git clone https://github.com/popochok/simple-telegram-chat-bot.git
+git clone https://github.com/popochok/Telegram-bot-support.git
 ```
